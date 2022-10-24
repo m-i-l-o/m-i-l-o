@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Milo Ruberto
+- 👀 I’m interested in finding bugs
+- 📫 You can find me on Twitter: @MilothegreatCR or on Discord: Milo the great#0001
+- 💠 I am new to coding, but enjoy learning new things
